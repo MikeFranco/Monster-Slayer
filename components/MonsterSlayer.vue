@@ -1,10 +1,5 @@
 <template>
   <div class="body">
-    <div class="name">
-      <h3>Nombre: David de Jesús Ramos Pérez </h3> <br/>
-      <h3>Materia: Diseño de sistemas</h3><br/>
-      <h3>Profersor: Chávez Lopez Ramón</h3>
-    </div>
     <section class="row">
       <div class="column">
         <h1 class="text-center">YOU</h1>
